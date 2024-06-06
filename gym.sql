@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- Archivo creado  - miÈrcoles-mayo-29-2024   
+-- Archivo creado  - mi√©rcoles-mayo-29-2024   
 --------------------------------------------------------
 --------------------------------------------------------
 --  DDL for Sequence SEQ_EJERCICIOS
@@ -428,10 +428,10 @@ WHERE upper(U.USUARIOORACLE) = USER
 REM INSERTING into LIFEFIT.CENTRO
 SET DEFINE OFF;
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('10','Gimnasio FitLife','Calle de la Victoria, 12','29012');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('20','Gimnasio SportZone','Avenida de AndalucÌa, 34','29006');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('30','Gimnasio Vitality','Calle de la UniÛn, 8','29004');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('20','Gimnasio SportZone','Avenida de Andaluc√≠a, 34','29006');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('30','Gimnasio Vitality','Calle de la Uni√≥n, 8','29004');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('40','Gimnasio BodyFit','Calle de la Paz, 21','29002');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('50','Gimnasio PowerFlex','Avenida de la ConstituciÛn, 45','29008');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('50','Gimnasio PowerFlex','Avenida de la Constituci√≥n, 45','29008');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('60','Gimnasio ActiveLife','Calle de la Alcazabilla, 17','29015');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('70','Gimnasio IronStrong','Calle de la Trinidad, 5','29001');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('80','Gimnasio FitZone','Avenida de la Malagueta, 28','29016');
@@ -441,10 +441,10 @@ Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('110','Gimnasio
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('120','Gimnasio EliteFitness','Avenida de la Rosaleda, 7','29010');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('130','Gimnasio ActiveZone','Calle de la Victoria, 18','29011');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('140','Gimnasio PowerGym','Avenida de la Malagueta, 12','29017');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('150','Gimnasio FitFlex','Calle de la UniÛn, 14','29003');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('160','Gimnasio SportLife','Avenida de AndalucÌa, 22','29007');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('150','Gimnasio FitFlex','Calle de la Uni√≥n, 14','29003');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('160','Gimnasio SportLife','Avenida de Andaluc√≠a, 22','29007');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('170','Gimnasio VitalFit','Calle de la Paz, 31','29001');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('180','Gimnasio BodyZone','Avenida de la ConstituciÛn, 50','29009');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('180','Gimnasio BodyZone','Avenida de la Constituci√≥n, 50','29009');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('190','Gimnasio IronFit','Calle de la Alcazabilla, 21','29016');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('200','Gimnasio FitStrong','Calle de la Trinidad, 8','29002');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('210','Gimnasio ActiveFit','Avenida de la Malagueta, 32','29018');
@@ -454,8 +454,8 @@ Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('240','Gimnasio
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('250','Gimnasio EliteFit','Avenida de la Rosaleda, 10','29011');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('260','Gimnasio ActiveGym','Calle de la Victoria, 20','29010');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('270','Gimnasio PowerLife','Avenida de la Malagueta, 15','29017');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('280','Gimnasio FitTech','Calle de la UniÛn, 10','29003');
-Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('290','Gimnasio SportFlex','Avenida de AndalucÌa, 28','29008');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('280','Gimnasio FitTech','Calle de la Uni√≥n, 10','29003');
+Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('290','Gimnasio SportFlex','Avenida de Andaluc√≠a, 28','29008');
 Insert into LIFEFIT.CENTRO (ID,NOMBRE,DIRECCION,CPOSTAL) values ('300','Gimnasio VitalFlex','Calle de la Paz, 28','29001');
 REM INSERTING into LIFEFIT.CITA
 SET DEFINE OFF;
@@ -465,10 +465,10 @@ Insert into LIFEFIT.CITA (FECHAYHORA,ID,MODALIDAD,CLIENTE_ID,ESTADO) values (to_
 REM INSERTING into LIFEFIT.CLIENTE
 SET DEFINE OFF;
 Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('37','Ponerse fuerte','Pesas','2','10');
-Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('1','TonificaciÛn','Pesas','1','10');
-Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('2','TonificaciÛn',null,'2','10');
-Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('3','PÈrdida de peso',null,'2','10');
-Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('4','MusculaciÛn',null,'1','10');
+Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('1','Tonificaci√≥n','Pesas','1','10');
+Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('2','Tonificaci√≥n',null,'2','10');
+Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('3','P√©rdida de peso',null,'2','10');
+Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('4','Musculaci√≥n',null,'1','10');
 Insert into LIFEFIT.CLIENTE (ID,OBJETIVO,PREFERENCIAS,DIETA_ID,CENTRO_ID) values ('5','Adelgazar 10 kg','Sin gluten, sin lactosa','1','10');
 REM INSERTING into LIFEFIT.CONFORMAN
 SET DEFINE OFF;
@@ -478,35 +478,35 @@ Insert into LIFEFIT.CONFORMAN (SERIES,REPETICIONES,DURACION,EJERCICIO_ID,RUTINA_
 Insert into LIFEFIT.CONFORMAN (SERIES,REPETICIONES,DURACION,EJERCICIO_ID,RUTINA_ID) values ('4','12','20','4','2');
 REM INSERTING into LIFEFIT.DIETA
 SET DEFINE OFF;
-Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('1','Mediterr·nea','La dieta mediterr·nea es un patrÛn alimenticio basado en la cocina tradicional de los paÌses que bordean el Mar Mediterr·neo.','Equilibrada');
-Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('2','CetogÈnica','Rica en grasas, moderada en proteÌnas y baja en carbohidratos. Induce al cuerpo a un estado metabÛlico llamado cetosis, donde las grasas se convierten en la principal fuente de energÌa','PÈrdida de peso');
-Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('3','Paleo','Se basa en la alimentaciÛn de nuestros antepasados ??paleolÌticos. Prioriza alimentos enteros sin procesar como carne magra, pescado, frutas, verduras, frutos secos y semillas. Excluye granos, legumbres, productos l·cteos y alimentos procesados.','Restrictiva');
+Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('1','Mediterr√°nea','La dieta mediterr√°nea es un patr√≥n alimenticio basado en la cocina tradicional de los pa√≠ses que bordean el Mar Mediterr√°neo.','Equilibrada');
+Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('2','Cetog√©nica','Rica en grasas, moderada en prote√≠nas y baja en carbohidratos. Induce al cuerpo a un estado metab√≥lico llamado cetosis, donde las grasas se convierten en la principal fuente de energ√≠a','P√©rdida de peso');
+Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('3','Paleo','Se basa en la alimentaci√≥n de nuestros antepasados ??paleol√≠ticos. Prioriza alimentos enteros sin procesar como carne magra, pescado, frutas, verduras, frutos secos y semillas. Excluye granos, legumbres, productos l√°cteos y alimentos procesados.','Restrictiva');
 Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('4','Flexitariana','Variante vegetariana flexible que permite el consumo ocasional de carne roja, aves o pescado. Enfatiza principalmente en alimentos vegetales.','Principiantes');
-Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('5','Ayuno Intermitente','PatrÛn de alimentaciÛn que alterna perÌodos de comida con perÌodos de ayuno. Existen diferentes mÈtodos, como el ayuno 16/8 o el ayuno 5:2.','Arriesgada');
+Insert into LIFEFIT.DIETA (ID,NOMBRE,DESCRIPCION,TIPO) values ('5','Ayuno Intermitente','Patr√≥n de alimentaci√≥n que alterna per√≠odos de comida con per√≠odos de ayuno. Existen diferentes m√©todos, como el ayuno 16/8 o el ayuno 5:2.','Arriesgada');
 REM INSERTING into LIFEFIT.EJERCICIO
 SET DEFINE OFF;
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('1','Sentadillas','Ejercicio b·sico para fortalecer las piernas. P·rate con los pies separados al ancho de los hombros y baja el cuerpo doblando las rodillas, manteniendo la espalda recta. Luego, vuelve a la posiciÛn inicial.','https://www.youtube.com/watch?v=QKKZ9AGYTi4','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('2','Flexiones de Brazos','Ejercicio para fortalecer los m˙sculos del pecho, hombros y trÌceps. ApÛyate en el suelo con las manos a la altura de los hombros, manteniendo el cuerpo recto y descendiendo hasta que los codos estÈn en un ·ngulo de 90 grados','https://www.youtube.com/watch?v=UwRLWMcOdwI','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('3','Plancha Abdominal','Ejercicio de isometrÌa para fortalecer el core. ColÛcate en posiciÛn de plancha, apoyando el peso en los antebrazos y los dedos de los pies, manteniendo el cuerpo recto y los m˙sculos abdominales contraÌdos.','https://www.youtube.com/watch?v=TvxNkmjdhMM','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('4','Levantamiento de Pesas','Ejercicio de fuerza que se puede adaptar a diferentes grupos musculares. Utiliza pesas adecuadas para tu nivel de fuerza, mantÈn una postura adecuada y realiza movimientos controlados para evitar lesiones.','https://www.youtube.com/watch?v=qEwKCR5JCog','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('5','Burpees','Ejercicio que combina flexiones, saltos y sentadillas. Comienza en posiciÛn de cuclillas, luego apoya las manos en el suelo, estira las piernas hacia atr·s realizando una flexiÛn, lleva las piernas de vuelta a la posiciÛn de cuclillas y salta','https://www.youtube.com/watch?v=JZQA08SlJnM','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('6','Dominadas','Ejercicio para fortalecer la espalda y los brazos. Ag·rrate a una barra con las manos separadas al ancho de los hombros y lev·ntate hasta que la barbilla estÈ por encima de la barra. Luego, baja lentamente hasta la posiciÛn inicial.','https://www.youtube.com/watch?v=eGo4IYlbE5g','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('7','Zancadas','Ejercicio para fortalecer las piernas y gl˙teos. Da un paso adelante con una pierna y flexiona ambas rodillas hasta que las piernas formen ·ngulos de 90 grados. Luego, vuelve a la posiciÛn inicial y repite con la otra pierna.','https://www.youtube.com/watch?v=QOVaHwm-Q6U','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('8','Flexiones Diamante','Variante de las flexiones que enfatiza m·s en los trÌceps. Coloca las manos juntas debajo del pecho, formando un diamante con los pulgares y los Ìndices. Realiza las flexiones manteniendo los codos cerca del cuerpo.','https://www.youtube.com/watch?v=Jx4cT2Ny8Mg','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('9','Elevaciones Laterales','Ejercicio para fortalecer los hombros y los m˙sculos del deltoides medio. De pie, con una mancuerna en cada mano, levanta los brazos hacia los lados hasta que estÈn paralelos al suelo, luego baja lentamente.','https://www.youtube.com/watch?v=yho0e_9rOwA','S');
-Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('10','Plancha Lateral','Ejercicio para trabajar los m˙sculos abdominales, oblicuos y estabilizadores del core. AcuÈstate de lado apoy·ndote en el antebrazo y el costado del pie, mantÈn el cuerpo en lÌnea recta y sostÈn la posiciÛn durante el tiempo deseado.','https://www.youtube.com/watch?v=zf0RBDYF8iE','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('1','Sentadillas','Ejercicio b√°sico para fortalecer las piernas. P√°rate con los pies separados al ancho de los hombros y baja el cuerpo doblando las rodillas, manteniendo la espalda recta. Luego, vuelve a la posici√≥n inicial.','https://www.youtube.com/watch?v=QKKZ9AGYTi4','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('2','Flexiones de Brazos','Ejercicio para fortalecer los m√∫sculos del pecho, hombros y tr√≠ceps. Ap√≥yate en el suelo con las manos a la altura de los hombros, manteniendo el cuerpo recto y descendiendo hasta que los codos est√©n en un √°ngulo de 90 grados','https://www.youtube.com/watch?v=UwRLWMcOdwI','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('3','Plancha Abdominal','Ejercicio de isometr√≠a para fortalecer el core. Col√≥cate en posici√≥n de plancha, apoyando el peso en los antebrazos y los dedos de los pies, manteniendo el cuerpo recto y los m√∫sculos abdominales contra√≠dos.','https://www.youtube.com/watch?v=TvxNkmjdhMM','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('4','Levantamiento de Pesas','Ejercicio de fuerza que se puede adaptar a diferentes grupos musculares. Utiliza pesas adecuadas para tu nivel de fuerza, mant√©n una postura adecuada y realiza movimientos controlados para evitar lesiones.','https://www.youtube.com/watch?v=qEwKCR5JCog','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('5','Burpees','Ejercicio que combina flexiones, saltos y sentadillas. Comienza en posici√≥n de cuclillas, luego apoya las manos en el suelo, estira las piernas hacia atr√°s realizando una flexi√≥n, lleva las piernas de vuelta a la posici√≥n de cuclillas y salta','https://www.youtube.com/watch?v=JZQA08SlJnM','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('6','Dominadas','Ejercicio para fortalecer la espalda y los brazos. Ag√°rrate a una barra con las manos separadas al ancho de los hombros y lev√°ntate hasta que la barbilla est√© por encima de la barra. Luego, baja lentamente hasta la posici√≥n inicial.','https://www.youtube.com/watch?v=eGo4IYlbE5g','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('7','Zancadas','Ejercicio para fortalecer las piernas y gl√∫teos. Da un paso adelante con una pierna y flexiona ambas rodillas hasta que las piernas formen √°ngulos de 90 grados. Luego, vuelve a la posici√≥n inicial y repite con la otra pierna.','https://www.youtube.com/watch?v=QOVaHwm-Q6U','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('8','Flexiones Diamante','Variante de las flexiones que enfatiza m√°s en los tr√≠ceps. Coloca las manos juntas debajo del pecho, formando un diamante con los pulgares y los √≠ndices. Realiza las flexiones manteniendo los codos cerca del cuerpo.','https://www.youtube.com/watch?v=Jx4cT2Ny8Mg','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('9','Elevaciones Laterales','Ejercicio para fortalecer los hombros y los m√∫sculos del deltoides medio. De pie, con una mancuerna en cada mano, levanta los brazos hacia los lados hasta que est√©n paralelos al suelo, luego baja lentamente.','https://www.youtube.com/watch?v=yho0e_9rOwA','S');
+Insert into LIFEFIT.EJERCICIO (ID,NOMBRE,DESCRIPCION,VIDEO,PUBLICO) values ('10','Plancha Lateral','Ejercicio para trabajar los m√∫sculos abdominales, oblicuos y estabilizadores del core. Acu√©state de lado apoy√°ndote en el antebrazo y el costado del pie, mant√©n el cuerpo en l√≠nea recta y sost√©n la posici√≥n durante el tiempo deseado.','https://www.youtube.com/watch?v=zf0RBDYF8iE','S');
 REM INSERTING into LIFEFIT.EJERCICIOS_EXT
 SET DEFINE OFF;
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Sentadillas','Ejercicio b·sico para fortalecer las piernas. P·rate con los pies separados al ancho de los hombros y baja el cuerpo doblando las rodillas, manteniendo la espalda recta. Luego, vuelve a la posiciÛn inicial.','https://www.youtube.com/watch?v=QKKZ9AGYTi4');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Flexiones de Brazos','Ejercicio para fortalecer los m˙sculos del pecho, hombros y trÌceps. ApÛyate en el suelo con las manos a la altura de los hombros, manteniendo el cuerpo recto y descendiendo hasta que los codos estÈn en un ·ngulo de 90 grados','https://www.youtube.com/watch?v=UwRLWMcOdwI');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Plancha Abdominal','Ejercicio de isometrÌa para fortalecer el core. ColÛcate en posiciÛn de plancha, apoyando el peso en los antebrazos y los dedos de los pies, manteniendo el cuerpo recto y los m˙sculos abdominales contraÌdos.','https://www.youtube.com/watch?v=TvxNkmjdhMM');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Levantamiento de Pesas','Ejercicio de fuerza que se puede adaptar a diferentes grupos musculares. Utiliza pesas adecuadas para tu nivel de fuerza, mantÈn una postura adecuada y realiza movimientos controlados para evitar lesiones.','https://www.youtube.com/watch?v=qEwKCR5JCog');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Burpees','Ejercicio que combina flexiones, saltos y sentadillas. Comienza en posiciÛn de cuclillas, luego apoya las manos en el suelo, estira las piernas hacia atr·s realizando una flexiÛn, lleva las piernas de vuelta a la posiciÛn de cuclillas y salta','https://www.youtube.com/watch?v=JZQA08SlJnM');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Dominadas','Ejercicio para fortalecer la espalda y los brazos. Ag·rrate a una barra con las manos separadas al ancho de los hombros y lev·ntate hasta que la barbilla estÈ por encima de la barra. Luego, baja lentamente hasta la posiciÛn inicial.','https://www.youtube.com/watch?v=eGo4IYlbE5g');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Zancadas','Ejercicio para fortalecer las piernas y gl˙teos. Da un paso adelante con una pierna y flexiona ambas rodillas hasta que las piernas formen ·ngulos de 90 grados. Luego, vuelve a la posiciÛn inicial y repite con la otra pierna.','https://www.youtube.com/watch?v=QOVaHwm-Q6U');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Flexiones Diamante','Variante de las flexiones que enfatiza m·s en los trÌceps. Coloca las manos juntas debajo del pecho, formando un diamante con los pulgares y los Ìndices. Realiza las flexiones manteniendo los codos cerca del cuerpo.','https://www.youtube.com/watch?v=Jx4cT2Ny8Mg');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Elevaciones Laterales','Ejercicio para fortalecer los hombros y los m˙sculos del deltoides medio. De pie, con una mancuerna en cada mano, levanta los brazos hacia los lados hasta que estÈn paralelos al suelo, luego baja lentamente.','https://www.youtube.com/watch?v=yho0e_9rOwA');
-Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Plancha Lateral','Ejercicio para trabajar los m˙sculos abdominales, oblicuos y estabilizadores del core. AcuÈstate de lado apoy·ndote en el antebrazo y el costado del pie, mantÈn el cuerpo en lÌnea recta y sostÈn la posiciÛn durante el tiempo deseado.','https://www.youtube.com/watch?v=zf0RBDYF8iE');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Sentadillas','Ejercicio b√°sico para fortalecer las piernas. P√°rate con los pies separados al ancho de los hombros y baja el cuerpo doblando las rodillas, manteniendo la espalda recta. Luego, vuelve a la posici√≥n inicial.','https://www.youtube.com/watch?v=QKKZ9AGYTi4');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Flexiones de Brazos','Ejercicio para fortalecer los m√∫sculos del pecho, hombros y tr√≠ceps. Ap√≥yate en el suelo con las manos a la altura de los hombros, manteniendo el cuerpo recto y descendiendo hasta que los codos est√©n en un √°ngulo de 90 grados','https://www.youtube.com/watch?v=UwRLWMcOdwI');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Plancha Abdominal','Ejercicio de isometr√≠a para fortalecer el core. Col√≥cate en posici√≥n de plancha, apoyando el peso en los antebrazos y los dedos de los pies, manteniendo el cuerpo recto y los m√∫sculos abdominales contra√≠dos.','https://www.youtube.com/watch?v=TvxNkmjdhMM');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Levantamiento de Pesas','Ejercicio de fuerza que se puede adaptar a diferentes grupos musculares. Utiliza pesas adecuadas para tu nivel de fuerza, mant√©n una postura adecuada y realiza movimientos controlados para evitar lesiones.','https://www.youtube.com/watch?v=qEwKCR5JCog');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Burpees','Ejercicio que combina flexiones, saltos y sentadillas. Comienza en posici√≥n de cuclillas, luego apoya las manos en el suelo, estira las piernas hacia atr√°s realizando una flexi√≥n, lleva las piernas de vuelta a la posici√≥n de cuclillas y salta','https://www.youtube.com/watch?v=JZQA08SlJnM');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Dominadas','Ejercicio para fortalecer la espalda y los brazos. Ag√°rrate a una barra con las manos separadas al ancho de los hombros y lev√°ntate hasta que la barbilla est√© por encima de la barra. Luego, baja lentamente hasta la posici√≥n inicial.','https://www.youtube.com/watch?v=eGo4IYlbE5g');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Zancadas','Ejercicio para fortalecer las piernas y gl√∫teos. Da un paso adelante con una pierna y flexiona ambas rodillas hasta que las piernas formen √°ngulos de 90 grados. Luego, vuelve a la posici√≥n inicial y repite con la otra pierna.','https://www.youtube.com/watch?v=QOVaHwm-Q6U');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Flexiones Diamante','Variante de las flexiones que enfatiza m√°s en los tr√≠ceps. Coloca las manos juntas debajo del pecho, formando un diamante con los pulgares y los √≠ndices. Realiza las flexiones manteniendo los codos cerca del cuerpo.','https://www.youtube.com/watch?v=Jx4cT2Ny8Mg');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Elevaciones Laterales','Ejercicio para fortalecer los hombros y los m√∫sculos del deltoides medio. De pie, con una mancuerna en cada mano, levanta los brazos hacia los lados hasta que est√©n paralelos al suelo, luego baja lentamente.','https://www.youtube.com/watch?v=yho0e_9rOwA');
+Insert into LIFEFIT.EJERCICIOS_EXT (NOMBRE,DESCRIPCION,VIDEO) values ('Plancha Lateral','Ejercicio para trabajar los m√∫sculos abdominales, oblicuos y estabilizadores del core. Acu√©state de lado apoy√°ndote en el antebrazo y el costado del pie, mant√©n el cuerpo en l√≠nea recta y sost√©n la posici√≥n durante el tiempo deseado.','https://www.youtube.com/watch?v=zf0RBDYF8iE');
 REM INSERTING into LIFEFIT.ELEMENTOCALENDARIO
 SET DEFINE OFF;
 Insert into LIFEFIT.ELEMENTOCALENDARIO (FECHAYHORA,ENTRENADOR_ID) values (to_date('25/08/24','DD/MM/RR'),'31');
@@ -544,46 +544,46 @@ Insert into LIFEFIT.SESION (INICIO,FIN,PRESENCIAL,PLAN_INICIO,PLAN_RUTINA_ID,DES
 REM INSERTING into LIFEFIT.USUARIO
 SET DEFINE OFF;
 Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('37','Omar','Errandi','666666666','Calle hola, 1','omar.errandi@gmail.com','Omar33');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('1','Ana','GarcÌa PÈrez','678123456','Calle del Sol, 5','ana.garcia@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('2','JosÈ','LÛpez MartÌnez','612987654','Avenida de la Luna, 12','jose.lopez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('3','MarÌa','RodrÌguez S·nchez','655234567','Calle de la Playa, 8','maria.rodriguez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('4','David','Fern·ndez Gonz·lez','633345678','Avenida del Mar, 20','david.fernandez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('5','Laura','MartÌn Romero','644456789','Calle de la MontaÒa, 15','laura.martin@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('6','Carlos','PÈrez GarcÌa','600567890','Avenida del Bosque, 30','carlos.perez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('7','SofÌa','Gonz·lez LÛpez','677678901','Calle del RÌo, 25','sofia.gonzalez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('8','Pablo','Romero MartÌnez','688789012','Avenida de la Ciudad, 18','pablo.romero@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('9','Isabel','S·nchez RodrÌguez','655890123','Calle de la Estrella, 10','isabel.sanchez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('10','Adri·n','LÛpez Fern·ndez','633901234','Avenida del Parque, 22','adrian.lopez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('11','Andrea','RodrÌguez GarcÌa','644012345','Calle del Paseo, 14','andrea.rodriguez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('12','Javier','Fern·ndez PÈrez','600123456','Avenida de la Plaza, 28','javier.fernandez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('13','Paula','MartÌn S·nchez','677234567','Calle de la Fuente, 7','paula.martin@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('14','Alejandro','PÈrez Romero','688345678','Avenida del JardÌn, 9','alejandro.perez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('15','Elena','Gonz·lez MartÌnez','655456789','Calle de la Cuesta, 11','elena.gonzalez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('16','Miguel','Romero LÛpez','633567890','Avenida de la Colina, 5','miguel.romero@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('17','Valeria','S·nchez GarcÌa','644678901','Calle del Bosque, 12','valeria.sanchez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('18','Daniel','LÛpez S·nchez','600789012','Avenida del Mar, 17','daniel.lopez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('19','Alba','RodrÌguez PÈrez','677890123','Calle de la Luna, 20','alba.rodriguez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('20','Iv·n','Fern·ndez MartÌnez','688901234','Avenida de la Playa, 14','ivan.fernandez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('21','Carmen','MartÌn GarcÌa','655012345','Calle de la MontaÒa, 9','carmen.martin@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('22','RubÈn','PÈrez Romero','633123456','Avenida del RÌo, 22','ruben.perez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('23','Sara','Gonz·lez S·nchez','644234567','Calle de la Ciudad, 16','sara.gonzalez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('24','Aitor','Romero LÛpez','600345678','Avenida de la Estrella, 8','aitor.romero@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('25','Natalia','LÛpez GarcÌa','677456789','Calle del Parque, 11','natalia.lopez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('26','Hugo','RodrÌguez MartÌnez','688567890','Avenida del Paseo, 19','hugo.rodriguez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('27','Olivia','Fern·ndez PÈrez','655678901','Calle de la Plaza, 27','olivia.fernandez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('28','Diego','MartÌn S·nchez','633789012','Avenida de la Fuente, 6','diego.martin@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('29','Valentina','PÈrez Romero','644890123','Calle del JardÌn, 8','valentina.perez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('30','¡lvaro','Gonz·lez MartÌnez','600901234','Avenida de la Cuesta, 10','alvaro.gonzalez@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('31','Alberto','MuÒoz Romero','612345678','Calle puerta blanca, 33','dare@email.com','EntrenadorDeporte');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('1','Ana','Garc√≠a P√©rez','678123456','Calle del Sol, 5','ana.garcia@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('2','Jos√©','L√≥pez Mart√≠nez','612987654','Avenida de la Luna, 12','jose.lopez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('3','Mar√≠a','Rodr√≠guez S√°nchez','655234567','Calle de la Playa, 8','maria.rodriguez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('4','David','Fern√°ndez Gonz√°lez','633345678','Avenida del Mar, 20','david.fernandez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('5','Laura','Mart√≠n Romero','644456789','Calle de la Monta√±a, 15','laura.martin@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('6','Carlos','P√©rez Garc√≠a','600567890','Avenida del Bosque, 30','carlos.perez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('7','Sof√≠a','Gonz√°lez L√≥pez','677678901','Calle del R√≠o, 25','sofia.gonzalez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('8','Pablo','Romero Mart√≠nez','688789012','Avenida de la Ciudad, 18','pablo.romero@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('9','Isabel','S√°nchez Rodr√≠guez','655890123','Calle de la Estrella, 10','isabel.sanchez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('10','Adri√°n','L√≥pez Fern√°ndez','633901234','Avenida del Parque, 22','adrian.lopez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('11','Andrea','Rodr√≠guez Garc√≠a','644012345','Calle del Paseo, 14','andrea.rodriguez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('12','Javier','Fern√°ndez P√©rez','600123456','Avenida de la Plaza, 28','javier.fernandez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('13','Paula','Mart√≠n S√°nchez','677234567','Calle de la Fuente, 7','paula.martin@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('14','Alejandro','P√©rez Romero','688345678','Avenida del Jard√≠n, 9','alejandro.perez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('15','Elena','Gonz√°lez Mart√≠nez','655456789','Calle de la Cuesta, 11','elena.gonzalez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('16','Miguel','Romero L√≥pez','633567890','Avenida de la Colina, 5','miguel.romero@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('17','Valeria','S√°nchez Garc√≠a','644678901','Calle del Bosque, 12','valeria.sanchez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('18','Daniel','L√≥pez S√°nchez','600789012','Avenida del Mar, 17','daniel.lopez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('19','Alba','Rodr√≠guez P√©rez','677890123','Calle de la Luna, 20','alba.rodriguez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('20','Iv√°n','Fern√°ndez Mart√≠nez','688901234','Avenida de la Playa, 14','ivan.fernandez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('21','Carmen','Mart√≠n Garc√≠a','655012345','Calle de la Monta√±a, 9','carmen.martin@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('22','Rub√©n','P√©rez Romero','633123456','Avenida del R√≠o, 22','ruben.perez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('23','Sara','Gonz√°lez S√°nchez','644234567','Calle de la Ciudad, 16','sara.gonzalez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('24','Aitor','Romero L√≥pez','600345678','Avenida de la Estrella, 8','aitor.romero@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('25','Natalia','L√≥pez Garc√≠a','677456789','Calle del Parque, 11','natalia.lopez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('26','Hugo','Rodr√≠guez Mart√≠nez','688567890','Avenida del Paseo, 19','hugo.rodriguez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('27','Olivia','Fern√°ndez P√©rez','655678901','Calle de la Plaza, 27','olivia.fernandez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('28','Diego','Mart√≠n S√°nchez','633789012','Avenida de la Fuente, 6','diego.martin@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('29','Valentina','P√©rez Romero','644890123','Calle del Jard√≠n, 8','valentina.perez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('30','√Ålvaro','Gonz√°lez Mart√≠nez','600901234','Avenida de la Cuesta, 10','alvaro.gonzalez@email.com',null);
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('31','Alberto','Mu√±oz Romero','612345678','Calle puerta blanca, 33','dare@email.com','EntrenadorDeporte');
 Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('32','Luis','Vega Silva','632547698','Calle Piamonte, 1','luis@email.com','GerentePrueba');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('33','Wan','Vazquez RamÌrez','34 612 345 678','Calle Mayor, 123','juan.perez@email.com','Wan33');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('43','¡ngel','MartÌnez CaÒete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','¡ngel43');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('34','Fernando','LÛpez PÈrez','666312232456','Calle Guitarra,3','fernando.lopez@email.com','Fernando34');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('36','¡ngel','MartÌnez CaÒete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','¡ngel36');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('33','Wan','Vazquez Ram√≠rez','34 612 345 678','Calle Mayor, 123','juan.perez@email.com','Wan33');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('43','√Ångel','Mart√≠nez Ca√±ete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','√Ångel43');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('34','Fernando','L√≥pez P√©rez','666312232456','Calle Guitarra,3','fernando.lopez@email.com','Fernando34');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('36','√Ångel','Mart√≠nez Ca√±ete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','√Ångel36');
 Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('38','Juan Luis','Guerra','663623661','Calle Abajo, 1','juanlu.guerra@email.com',null);
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('39','¡ngel','MartÌnez CaÒete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','¡ngel39');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('41','¡ngel','MartÌnez CaÒete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','¡ngel41');
-Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('35','Alfredo','MuÒoz ¡lvarez','34 673345897','Calle Menor, 321','alfredo.munioz@email.com','Alfredo35');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('39','√Ångel','Mart√≠nez Ca√±ete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','√Ångel39');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('41','√Ångel','Mart√≠nez Ca√±ete','34 618923487','Calle Mesa, 7','angel.martinez@email.com','√Ångel41');
+Insert into LIFEFIT.USUARIO (ID,NOMBRE,APELLIDOS,TELEFONO,DIRECCION,CORREOE,USUARIOORACLE) values ('35','Alfredo','Mu√±oz √Ålvarez','34 673345897','Calle Menor, 321','alfredo.munioz@email.com','Alfredo35');
 --------------------------------------------------------
 --  DDL for Index CENTRO_PK
 --------------------------------------------------------
@@ -914,7 +914,7 @@ ALTER TRIGGER "LIFEFIT"."TRG_UPD_ENTRENADOR_CITAS_VIEW" ENABLE;
 
   CREATE OR REPLACE EDITIONABLE PACKAGE "LIFEFIT"."BASE" AS 
 
-/* DeclaraciÛn de excepciones */
+/* Declaraci√≥n de excepciones */
   EXCEPTION_CREACION EXCEPTION;
   EXCEPTION_MODIFICACION EXCEPTION;
   EXCEPTION_ELIMINACION EXCEPTION;
@@ -933,7 +933,7 @@ TYPE TCLIENTE IS RECORD (
     CENTRO CLIENTE.CENTRO_ID%TYPE
 );
 
---DeclaraciÛn del procedimiento CREA_CLIENTE
+--Declaraci√≥n del procedimiento CREA_CLIENTE
 PROCEDURE CREA_CLIENTE(
     P_DATOS IN TCLIENTE,
     P_USERPASS IN VARCHAR2,
@@ -952,7 +952,7 @@ TYPE TENTRENADOR IS RECORD (
     CENTRO ENTRENADOR.CENTRO_ID%TYPE
 );
 
---DeclaraciÛn del procedimiento CREA_ENTRENADOR
+--Declaraci√≥n del procedimiento CREA_ENTRENADOR
 PROCEDURE CREA_ENTRENADOR(
     P_DATOS IN TENTRENADOR,
     P_USERPASS IN VARCHAR2,
@@ -972,7 +972,7 @@ TYPE TGERENTE IS RECORD (
     CENTRO GERENTE.CENTRO_ID%TYPE
 );
 
---DeclaraciÛn del procedimiento CREA_GERENTE
+--Declaraci√≥n del procedimiento CREA_GERENTE
 PROCEDURE CREA_GERENTE(
     P_DATOS IN TGERENTE,
     P_USERPASS IN VARCHAR2,
@@ -984,16 +984,16 @@ PROCEDURE ELIMINA_USER(P_ID USUARIO.ID%TYPE);
 
 PROCEDURE SENTENCIAS(SENTENCIA VARCHAR2);
 
---DeclaraciÛn del procedimiento ELIMINA_CLIENTE
+--Declaraci√≥n del procedimiento ELIMINA_CLIENTE
 PROCEDURE ELIMINA_CLIENTE(P_ID USUARIO.ID%TYPE);
 
---DeclaraciÛn del procedimineto ELIMINA_GERENTE
+--Declaraci√≥n del procedimineto ELIMINA_GERENTE
 PROCEDURE ELIMINA_GERENTE(P_ID USUARIO.ID%TYPE);
 
---DeclaraciÛn del procedimiento ELIMINA_ENTRENADOR
+--Declaraci√≥n del procedimiento ELIMINA_ENTRENADOR
 PROCEDURE ELIMINA_ENTRENADOR(P_ID USUARIO.ID%TYPE);
 
---DeclaraciÛn del procedimiento ELIMINA_CENTRO
+--Declaraci√≥n del procedimiento ELIMINA_CENTRO
 PROCEDURE ELIMINA_CENTRO(P_ID CENTRO.ID%TYPE);
 
 
@@ -1022,7 +1022,7 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE(sentencia);
     execute immediate sentencia;
     
-     -- Paso 2: Confirmar la transacciÛn autom·ticamente
+     -- Paso 2: Confirmar la transacci√≥n autom√°ticamente
     COMMIT;
 END SENTENCIAS;
 
@@ -1037,7 +1037,7 @@ PROCEDURE CREA_CLIENTE(
     v_sentencia VARCHAR2(500);
     v_savepoint varchar2(30) := 'SP_CREAR_CLIENTE';
     
-    -- Procedimiento autÛnomo para crear el usuario Oracle
+    -- Procedimiento aut√≥nomo para crear el usuario Oracle
     PROCEDURE CREAR_USUARIO_ORACLE (
         P_NOMBRE_ORACLE IN VARCHAR2,
         P_USERPASS IN VARCHAR2
@@ -1062,7 +1062,7 @@ PROCEDURE CREA_CLIENTE(
         v_sentencia := 'CREATE SYNONYM CITAS FOR LIFEFIT.CLIENTE_CITAS_VIEW';
         SENTENCIAS(v_sentencia);
 
-        --no serÌa necesario porque se hace en cada llamada a SENTENCIAS(): COMMIT;
+        --no ser√≠a necesario porque se hace en cada llamada a SENTENCIAS(): COMMIT;
     EXCEPTION
         WHEN OTHERS THEN
             ROLLBACK;
@@ -1074,10 +1074,10 @@ BEGIN
     -- Crea el savepoint
     SAVEPOINT SP_CREAR_CLIENTE;
     
-    --Almacenamos en la variable v_nuevo_id_usuario el id del ˙ltimo usuario introducido + 1 para obtener el id del nuevo usuario
+    --Almacenamos en la variable v_nuevo_id_usuario el id del √∫ltimo usuario introducido + 1 para obtener el id del nuevo usuario
     select max(id)+1 into v_nuevo_id from lifefit.USUARIO;
     
-    --Almacenamos en la variable v_nombre_oracle la concatenaciÛn del nombre y el id del usuario
+    --Almacenamos en la variable v_nombre_oracle la concatenaci√≥n del nombre y el id del usuario
     v_nombre_oracle := P_DATOS.NOMBRE||v_nuevo_id;
     
     --Crea el usuario en la tabla USUARIO
@@ -1097,12 +1097,12 @@ BEGIN
     select * into P_CLIENTE from lifefit.cliente where id = v_nuevo_id;
     --DBMS_OUTPUT.PUT_LINE(P_CLIENTE.objetivo);
     
-    -- Llamamos al procedimiento autÛnomo para crear el usuario Oracle
+    -- Llamamos al procedimiento aut√≥nomo para crear el usuario Oracle
         CREAR_USUARIO_ORACLE(v_nombre_oracle, P_USERPASS);
 
     EXCEPTION
         WHEN OTHERS THEN
-            -- Si hay alg˙n error, revertimos hasta el savepoint
+            -- Si hay alg√∫n error, revertimos hasta el savepoint
             ROLLBACK TO SAVEPOINT v_savepoint;
             RAISE;
     
@@ -1120,7 +1120,7 @@ PROCEDURE CREA_ENTRENADOR(
     v_sentencia VARCHAR2(500);
     v_savepoint VARCHAR2(30) := 'SP_CREAR_ENTRENADOR';
 
-    -- Procedimiento autÛnomo para crear el usuario Oracle
+    -- Procedimiento aut√≥nomo para crear el usuario Oracle
     PROCEDURE CREAR_USUARIO_ORACLE (
         P_NOMBRE_ORACLE IN VARCHAR2,
         P_USERPASS IN VARCHAR2
@@ -1152,7 +1152,7 @@ PROCEDURE CREA_ENTRENADOR(
         v_sentencia := 'CREATE SYNONYM CITAS FOR LIFEFIT.ENTRENADOR_CITAS_VIEW';
         SENTENCIAS(v_sentencia);
 
-        --no serÌa necesario porque se hace en cada llamada a SENTENCIAS: COMMIT;
+        --no ser√≠a necesario porque se hace en cada llamada a SENTENCIAS: COMMIT;
     EXCEPTION
         WHEN OTHERS THEN
             ROLLBACK;
@@ -1163,16 +1163,16 @@ BEGIN
     -- Crea el savepoint
     SAVEPOINT SP_CREAR_ENTRENADOR;
 
-        -- Almacenamos en la variable v_nuevo_id_usuario el id del ˙ltimo usuario introducido + 1 para obtener el id del nuevo usuario
+        -- Almacenamos en la variable v_nuevo_id_usuario el id del √∫ltimo usuario introducido + 1 para obtener el id del nuevo usuario
         select max(id)+1 into v_nuevo_id from lifefit.USUARIO;
         
-        -- Almacenamos en la variable v_nombre_oracle la concatenaciÛn del nombre y el id del usuario
+        -- Almacenamos en la variable v_nombre_oracle la concatenaci√≥n del nombre y el id del usuario
         v_nombre_oracle := P_DATOS.NOMBRE || v_nuevo_id;
 
         -- Crea el usuario en la tabla USUARIO
         insert into lifefit.USUARIO(ID, NOMBRE, APELLIDOS, TELEFONO, DIRECCION, CORREOE, USUARIOORACLE) 
         values (v_nuevo_id, P_DATOS.NOMBRE, P_DATOS.APELLIDOS, P_DATOS.TELEFONO, P_DATOS.DIRECCION, P_DATOS.CORREOE, v_nombre_oracle);
-        -- Confirmar la transacciÛn
+        -- Confirmar la transacci√≥n
         COMMIT;
 
         -- Introducimos en la variable P_USUARIO el valor de ID que introducimos en la nueva fila de la tabla usuario
@@ -1181,18 +1181,18 @@ BEGIN
         -- Crea el usuario en la tabla ENTRENADOR
         insert into lifefit.ENTRENADOR(ID, DISPONIBILIDAD, CENTRO_ID) 
         values (v_nuevo_id, P_DATOS.DISPONIBILIDAD, P_DATOS.CENTRO);
-        -- Confirmar la transacciÛn
+        -- Confirmar la transacci√≥n
         COMMIT;
 
         -- Introducimos la variable P_ENTRENADOR el valor de ID que introducimos en la nueva fila de la tabla entrenador
         select * into P_ENTRENADOR from lifefit.entrenador where id = v_nuevo_id;
 
-        -- Llamamos al procedimiento autÛnomo para crear el usuario Oracle
+        -- Llamamos al procedimiento aut√≥nomo para crear el usuario Oracle
         CREAR_USUARIO_ORACLE(v_nombre_oracle, P_USERPASS);
 
     EXCEPTION
         WHEN OTHERS THEN
-            -- Si hay alg˙n error, revertimos hasta el savepoint
+            -- Si hay alg√∫n error, revertimos hasta el savepoint
             ROLLBACK TO SAVEPOINT v_savepoint;
             RAISE;
 
@@ -1210,7 +1210,7 @@ PROCEDURE CREA_GERENTE(
     v_sentencia VARCHAR2(500);
     v_savepoint VARCHAR2(30) := 'SP_CREAR_GERENTE';
     
-    -- Procedimiento autÛnomo para crear el usuario Oracle
+    -- Procedimiento aut√≥nomo para crear el usuario Oracle
     PROCEDURE CREAR_USUARIO_ORACLE (
         P_NOMBRE_ORACLE IN VARCHAR2,
         P_USERPASS IN VARCHAR2
@@ -1238,10 +1238,10 @@ BEGIN
     -- Crea el savepoint
     SAVEPOINT SP_CREAR_GERENTE;
     
-    --Almacenamos en la variable v_nuevo_id_usuario el id del ˙ltimo usuario introducido + 1 para obtener el id del nuevo usuario
+    --Almacenamos en la variable v_nuevo_id_usuario el id del √∫ltimo usuario introducido + 1 para obtener el id del nuevo usuario
     select max(id)+1 into v_nuevo_id from lifefit.USUARIO;
     
-    --Almacenamos en la variable v_nombre_oracle la concatenaciÛn del nombre y el id del usuario
+    --Almacenamos en la variable v_nombre_oracle la concatenaci√≥n del nombre y el id del usuario
     v_nombre_oracle := P_DATOS.NOMBRE||v_nuevo_id;
     
     --Crea el usuario en la tabla USUARIO
@@ -1265,7 +1265,7 @@ BEGIN
     
     EXCEPTION
         WHEN OTHERS THEN
-            -- Si hay alg˙n error, revertimos hasta el savepoint
+            -- Si hay alg√∫n error, revertimos hasta el savepoint
             ROLLBACK TO SAVEPOINT v_savepoint;
             RAISE;
     
@@ -1281,7 +1281,7 @@ BEGIN
     UPDATE USUARIO
     SET USUARIOORACLE = NULL
     WHERE ID = P_ID;
-    COMMIT; -- Confirmar la transacciÛn
+    COMMIT; -- Confirmar la transacci√≥n
 
    
     sentencia := 'DROP USER ' || usuario || ' cascade';
@@ -1312,11 +1312,11 @@ BEGIN
     WHERE id = P_ID;
 
     IF comprobar = 0 THEN
-        -- Si no existe, lanzar una excepciÛn o manejar el error
+        -- Si no existe, lanzar una excepci√≥n o manejar el error
         RAISE_APPLICATION_ERROR(-20001, 'El ID proporcionado no corresponde a un cliente.');
     END IF;
     
-    -- Continuar con la eliminaciÛn del usuario
+    -- Continuar con la eliminaci√≥n del usuario
     ELIMINA_USER(P_ID);
     
     DELETE FROM CITA WHERE CLIENTE_ID = P_ID;
@@ -1358,7 +1358,7 @@ BEGIN
     WHERE id = P_ID;
 
     IF comprobar = 0 THEN
-        -- Si no existe, lanzar una excepciÛn o manejar el error
+        -- Si no existe, lanzar una excepci√≥n o manejar el error
         RAISE_APPLICATION_ERROR(-20001, 'El ID proporcionado no corresponde a un gerente.');
     END IF;
     
@@ -1390,7 +1390,7 @@ BEGIN
     WHERE id = P_ID;
 
     IF entrenador_existente = 0 THEN
-        -- Si no existe, lanzar una excepciÛn o manejar el error
+        -- Si no existe, lanzar una excepci√≥n o manejar el error
         RAISE_APPLICATION_ERROR(-20001, 'El ID proporcionado no corresponde a un entrenador.');
     END IF;
     
